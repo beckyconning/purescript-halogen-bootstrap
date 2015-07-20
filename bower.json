@@ -1,6 +1,6 @@
 {
   "name": "purescript-halogen-bootstrap",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "moduleType": [
     "node"
   ],
@@ -11,7 +11,7 @@
     "output"
   ],
   "dependencies": {
-    "purescript-halogen": "master"
+    "purescript-halogen": "4608a541e5fe0e8aade80811f470697a1a4cd614"
   },
   "devDependencies": {
     "bootstrap": "~3.3.2"
